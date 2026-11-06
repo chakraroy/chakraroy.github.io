@@ -232,6 +232,19 @@ main {
   font-size: 1.45rem;
 }
 
+.edu-story-card .story-body > p > a {
+  color: var(--edu-ink);
+  font-size: 1.45rem;
+  font-weight: 800;
+  letter-spacing: -0.05em;
+  line-height: 1.15;
+  text-decoration: none;
+}
+
+.edu-story-card .story-body > p > a:hover {
+  color: var(--edu-gold-dark);
+}
+
 .story-meta {
   margin: 0;
   color: var(--edu-gold-dark);
