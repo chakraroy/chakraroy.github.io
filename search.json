@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Tentang",
+    "section": "",
+    "text": "Foto profil Chakra Roy\n\n\n\n\n\nSaya tertarik pada cara kita memahami persoalan dan membuat keputusan—di dalam organisasi, melalui data, dan sebagai bagian dari dunia yang lebih luas.\nDi situs ini saya menulis dan menyusun buku berbasis web tentang manajemen, investasi, keuangan, decision analytics, data science, filsafat, lingkungan, teknologi, dan spiritualitas."
+  },
+  {
+    "objectID": "about.html#halo-saya-chakra-roy.",
+    "href": "about.html#halo-saya-chakra-roy.",
+    "title": "Tentang",
+    "section": "",
+    "text": "Saya tertarik pada cara kita memahami persoalan dan membuat keputusan—di dalam organisasi, melalui data, dan sebagai bagian dari dunia yang lebih luas.\nDi situs ini saya menulis dan menyusun buku berbasis web tentang manajemen, investasi, keuangan, decision analytics, data science, filsafat, lingkungan, teknologi, dan spiritualitas."
+  },
+  {
+    "objectID": "about.html#beberapa-pegangan",
+    "href": "about.html#beberapa-pegangan",
+    "title": "Tentang",
+    "section": "Beberapa pegangan",
+    "text": "Beberapa pegangan\n\nData membantu kita melihat pola; kebijaksanaan membantu kita memahami apa yang perlu dilakukan.\n\n\nKeputusan yang baik mempertimbangkan hasil, manusia, dan dampaknya bagi masa depan."
+  },
+  {
+    "objectID": "index.html#ruang-gagasan",
+    "href": "index.html#ruang-gagasan",
+    "title": "Beranda",
+    "section": "Ruang gagasan",
+    "text": "Ruang gagasan\nJelajahi tulisan\n\n\n\n\n\nKota dan gedung sebagai konteks keputusan bisnis\n\n\n\nManajemen & keputusan\n\nMerancang organisasi agar keputusan lebih baik\nMembahas strategi, struktur perusahaan, tata kelola, serta cara menyelaraskan keputusan dengan tujuan jangka panjang.\n\n\n\n\n\n\n\nVisualisasi data pada layar komputer\n\n\n\nData science & teknologi\n\nMengubah data menjadi pemahaman yang bisa ditindaklanjuti\nEksplorasi analitik, pemodelan, dan teknologi—dengan perhatian pada asumsi, kualitas data, dan dampak penerapannya.\n\n\n\n\n\n\n\nHutan berkabut yang menggambarkan hubungan manusia dan alam\n\n\n\nFilsafat, lingkungan & spiritualitas\n\nMenimbang kemajuan, makna, dan tanggung jawab\nRefleksi tentang nilai, hubungan manusia dengan alam, dan pertanyaan mendasar yang membentuk cara kita hidup serta bekerja."
+  },
+  {
+    "objectID": "index.html#keputusan-yang-bijak-mempertimbangkan-lebih-dari-sekadar-angka.",
+    "href": "index.html#keputusan-yang-bijak-mempertimbangkan-lebih-dari-sekadar-angka.",
+    "title": "Beranda",
+    "section": "Keputusan yang bijak mempertimbangkan lebih dari sekadar angka.",
+    "text": "Keputusan yang bijak mempertimbangkan lebih dari sekadar angka.\nData membantu kita melihat pola. Konteks, pemikiran kritis, dan kesadaran akan dampak membantu kita menentukan langkah yang tepat.\n\n\nPerspektif profesional\nManajemen, investasi, keuangan, struktur perusahaan, dan decision analytics.\n\n\nRefleksi lintas disiplin\nData science, teknologi, filsafat, lingkungan, dan spiritualitas."
+  },
+  {
+    "objectID": "index.html#gagasan-dalam-format-yang-bisa-dijelajahi",
+    "href": "index.html#gagasan-dalam-format-yang-bisa-dijelajahi",
+    "title": "Beranda",
+    "section": "Gagasan dalam format yang bisa dijelajahi",
+    "text": "Gagasan dalam format yang bisa dijelajahi\nBuka koleksi buku\n\n\n\n\n\nCatatan terbuka di buku tulis\n\n\n\nBlog\n\nCatatan, analisis, dan sudut pandang\nTulisan ringkas maupun mendalam tentang keputusan, organisasi, data, teknologi, dan tema lintas disiplin.\n\n\n\n\n\n\n\nBuku terbuka sebagai sumber pengetahuan\n\n\n\nBuku berbasis web\n\nKarya terstruktur untuk dibaca dan dirujuk\nBuku-buku yang dikembangkan dengan Quarto, memadukan penjelasan, analisis, dan materi pendukung dalam format web.\n\n\n\n\n\n\n\nJaringan dan koneksi yang menggambarkan disiplin ilmu\n\n\n\nLintas disiplin\n\nMenghubungkan analisis dengan makna\nMenjembatani pendekatan kuantitatif dengan pertanyaan filosofis, pertimbangan lingkungan, dan nilai-nilai manusia."
+  },
+  {
+    "objectID": "index.html#jelajahi-ide-analisis-dan-refleksi.",
+    "href": "index.html#jelajahi-ide-analisis-dan-refleksi.",
+    "title": "Beranda",
+    "section": "Jelajahi ide, analisis, dan refleksi.",
+    "text": "Jelajahi ide, analisis, dan refleksi.\nMulai dari tulisan di blog atau jelajahi buku berbasis web yang mungkin menginspirasi.\nKunjungi blog Jelajahi buku"
+  },
+  {
+    "objectID": "books/index.html",
+    "href": "books/index.html",
+    "title": "Buku",
+    "section": "",
+    "text": "Halaman ini memuat buku berbasis web yang dikembangkan dengan Quarto. Format ini memungkinkan materi disusun sebagai karya terstruktur yang dapat dibaca langsung melalui browser.\nTema buku akan selaras dengan tulisan di situs ini: manajemen, investasi dan keuangan, decision analytics, data science, filsafat, lingkungan, teknologi, serta spiritualitas.\nKoleksi dan isi buku akan ditambahkan secara bertahap.\nBaca tulisan di blog"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Tulisan di blog ini membahas gagasan profesional dan refleksi lintas disiplin, antara lain:\n\nManajemen dan keuangan: investasi, strategi, struktur perusahaan, dan tata kelola.\nDecision analytics dan data science: analisis untuk memahami masalah dan mendukung keputusan.\nFilsafat dan lingkungan: pertanyaan tentang pengetahuan, nilai, keberlanjutan, dan hubungan manusia dengan alam.\nTeknologi dan spiritualitas: perubahan teknologi serta refleksi tentang makna dan kehidupan.\n\nTulisan akan ditambahkan dan dikembangkan secara bertahap.\nJelajahi buku berbasis web"
+  }
+]
